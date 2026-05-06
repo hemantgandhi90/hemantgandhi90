@@ -461,6 +461,7 @@ button { font: inherit; cursor: pointer; background: none; border: none; color: 
   border-radius: var(--radius);
   transition: all 0.3s;
   text-align: left;
+  white-space: nowrap;
 }
 .contact-link:hover {
   background: rgba(255, 94, 58, 0.06);
